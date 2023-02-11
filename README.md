@@ -7,7 +7,7 @@ Adithya P Mallya this side,I am a tech enthusiast,Keen learner and I am currentl
 Skills: C++ | SQL | Python | Cyber Security | Kali Linux
 
 - 🔭 I’m currently working on Data Structures and Algorithms 
-- 🌱 I’m currently learning UI/UX Designing 
+- 🌱 I’m currently learning Front End Development
 - 👯 I’m looking to collaborate on Google 
 - 🤔 I’m looking for help with Competitive Programming 
 - 📫 How to reach me: https://www.linkedin.com/in/adithya-p-mallya-9bb076139/ 
